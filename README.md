@@ -2,7 +2,7 @@
 
 I am Juan Pablo Bernal, currently working at Amazon Air as a ramp agent.  I am interested in becoming a full-time Web Developer.  I earned a certificate in Full-Stack Web Development at University of California, Riverside.  I enjoy writing clean and maintainable code and truly love how each line of code comes to fruition in the browser.  Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-bernal-juan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bernal-juan/)](https://www.linkedin.com/in/bernal-juan/)
+[![Linkedin Badge](https://img.shields.io/badge/bernal-juan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bernal-juan/)](https://www.linkedin.com/in/bernal-juan/)
 [![Gmail Badge](https://img.shields.io/badge/-bernal1307@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bernal1307@gmail.com)](mailto:bernal1307@gmail.com)
 
 ## ⚡ Technologies
